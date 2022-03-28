@@ -1,0 +1,20 @@
+{
+  "name": "parling_lot",
+  "version": "1.0.0",
+  "description": "Simple Parking Lot CLI",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Deepak Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "config": "^3.3.7",
+    "mocha": "^9.2.2",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.8",
+    "nodemon": "^2.0.15",
+    "readline": "^1.3.0"
+  }
+}
